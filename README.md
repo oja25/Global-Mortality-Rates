@@ -1,4 +1,4 @@
-## Global Mortality Rates by Country & Income Level
+## DATA VIZUALISATION: Global Mortality Rates by Country & Income Level
 ### OBJECTIVES: To examine cause specific mortality rates by country income level 
 
 ![image](https://github.com/oja25/global-mortality-rates/assets/157504626/07a767bf-0c76-4c00-a343-96bdaf5da0fb)
