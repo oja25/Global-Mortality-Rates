@@ -4,7 +4,7 @@
 ![image](https://github.com/oja25/global-mortality-rates/assets/157504626/07a767bf-0c76-4c00-a343-96bdaf5da0fb)
 
 #### Variables to include:
-- cause of mortality, sex, country, world region country income & healthcare spending per capita 
+- Cause of mortality, sex, country, world region country income & healthcare spending per capita 
 
 #### Null Hypothesis: 
 - Country income is not associated with disease specific mortality rates when examined by – Age, Sex, Country income 
